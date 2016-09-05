@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Zak Hou
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+email: zak@zakhou.com
+copyright_name: Zak Hou
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://zakhou.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: ZakzHou
+github_username:  zakhou
+facebook_username:  ZakZhenHou
+email_username:  zak@zakhou.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
@@ -17,6 +17,12 @@ email_username:  your-email@yourdomain.com
 
 # Build settings
 markdown: kramdown
+kramdown:
+   input: GFM
+
+# Disqus settings
+disqus_username: zakhou
+
 highlighter: rouge
 permalink: pretty
 paginate: 5
