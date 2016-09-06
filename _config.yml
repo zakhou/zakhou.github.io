@@ -30,7 +30,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-feed]
 
 
 # Featured Tags
