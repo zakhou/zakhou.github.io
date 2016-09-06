@@ -8,8 +8,8 @@ body {
 /*
 Here I learn from hux-blog.css in terrytangyuan.github.io/css
 */
-  font-family: -apple-system, "Helvetica Neue", "Arial", 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 18px;
   color: #404040;
 }
 p {
@@ -25,7 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family:  -apple-system, "Helvetica Neue", "Arial", 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {

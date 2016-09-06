@@ -10,6 +10,7 @@ twitter_username: ZakzHou
 github_username:  zakhou
 facebook_username:  ZakZhenHou
 email_username:  zak@zakhou.com
+linkedin_visitor_id: zakzhenhou
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
@@ -29,10 +30,14 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate]
 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Keep a weather eye on the horizon."
+sidebar-avatar: /img/about-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
