@@ -25,7 +25,14 @@ disqus_username: zakhou
 
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true
 
 gems: [jekyll-paginate, jekyll-feed]
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
