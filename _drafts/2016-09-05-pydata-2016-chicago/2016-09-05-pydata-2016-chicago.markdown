@@ -17,16 +17,20 @@ student center in The University of Illinois at Chicago. According to the
 bring together users and developers of data analysis tools to share ideas and 
 learn from each other. The PyData community gathers to discuss how best to apply 
 Python tools, as well as tools using R and Julia, to meet evolving challenges in 
-data management, processing, analytics, and visualization." This was exactly what I had expected before joining the meeting. As an astrophysicist using Python, I 
+data management, processing, analytics, and visualization." This was exactly what I had expected before joining the meeting. 
+
+As an astrophysicist using Python, I
 focused on analyzing the data from satellites and telescopes, maybe too much in 
 a long history without realizing the booming development of data science community
 with the technology of machine learning, predictive modeling, and data 
-visualization.
-
-The conference was consist of one day of tutorial sessions and two days of 
-general sessions. 
+visualization. This conference gave me a great opportunity to know people in data
+science, especially in Chicago area, and start getting involved in this community.
 
 
 ## Tutorial Sessions
+
+The conference was consist of one day of tutorial sessions and two days of 
+general sessions. In Friday morning, I attend the first tutorial "Pandas: .head()
+to .tail()" lead by Tom Augspurger.
 
 
