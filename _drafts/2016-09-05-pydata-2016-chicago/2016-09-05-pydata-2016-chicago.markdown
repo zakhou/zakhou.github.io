@@ -30,7 +30,8 @@ science, especially in Chicago area, and start getting involved in this communit
 ## Tutorial Sessions
 
 The conference was consist of one day of tutorial sessions and two days of 
-general sessions. In Friday morning, I attend the first tutorial "Pandas: .head()
-to .tail()" lead by Tom Augspurger.
+general sessions. In Friday morning, I attended the first tutorial 
+["Pandas: .head() to .tail()"](http://pydata.org/chicago2016/schedule/presentation/32/) 
+lead by Tom Augspurger. I started using Pandas from Kaggle competitions.
 
 
